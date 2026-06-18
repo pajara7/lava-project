@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+    <meta charset="UTF-8">
+    <title>რეგისტრაცია - Lava.ge</title>
+</head>
+<body>
+    <h2>მოგესალმებით Lava.ge-ზე</h2>
+    <p>გთხოვთ გაიაროთ რეგისტრაცია საიტზე შესასვლელად.</p>
+    
+    <form>
+        <label>მომხმარებლის სახელი:</label><br>
+        <input type="text" name="username"><br><br>
+        
+        <label>პაროლი:</label><br>
+        <input type="password" name="password"><br><br>
+        
+        <button type="submit">რეგისტრაცია</button>
+    </form>
+</body>
+</html>
